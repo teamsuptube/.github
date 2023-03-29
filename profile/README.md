@@ -4,7 +4,7 @@
 [![MAIL](https://img.shields.io/badge/MAIL-%23005FF9.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:teamsuptube@gmail.com)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suptubeapp)
 
-[SupTube](https://suptube.repl.co) is a new, lightweight Windows client created to enhance the [YouTube](https://www.youtube.com) experience. The app uses the [Tauri](https://tauri.app) framework, which includes a combination of [Rust](https://rust-lang.org) language and [WebView2](https://learn.microsoft.com/en-us/microsoft-edge/webview2) engine to show YouTube videos. By using the built-in Windows dependencies, the app uses fewer resources, making it an ideal option for those with older or less powerful devices. With a file size of less than 10MB when installed, SupTube is a great choice for those who want a compact, fast-loading app that delivers YouTube video playback without any interruptions.
+**[SupTube](https://suptube.repl.co) is a lightweight Windows client created to enhance the [YouTube](https://www.youtube.com) experience. The app uses the [Tauri](https://tauri.app) framework, which includes a combination of [Rust](https://rust-lang.org) language and [WebView2](https://learn.microsoft.com/en-us/microsoft-edge/webview2) engine to show YouTube videos.**
 
 #### CHECK OUT OUR REPOS:
 
