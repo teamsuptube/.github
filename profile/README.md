@@ -1,4 +1,4 @@
-[![suptube gh](https://user-images.githubusercontent.com/79461263/224791355-15c93044-85e0-43c9-ab42-b5dee38eb537.png)](https://github.com/teamsuptube/SupTube)
+[![suptube gh](https://user-images.githubusercontent.com/79461263/229287978-ec566079-db20-4e86-9131-5d4bc11cadfc.png)](https://github.com/teamsuptube/SupTube)
 
 [![SOURCEFORGE](https://img.shields.io/badge/SOURCEFORGE-%23FF6600.svg?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/p/suptube)
 [![MAIL](https://img.shields.io/badge/MAIL-%23005FF9.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:teamsuptube@gmail.com)
