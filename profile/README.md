@@ -8,8 +8,8 @@
 
 #### CHECK OUT OUR REPOS:
 
-[![SUPTUBE](https://img.shields.io/badge/APP-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/SupTube)
-[![SUPTUBE WEB](https://img.shields.io/badge/WEBSITE-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/SupTube-Web)
+[![SUPTUBE](https://img.shields.io/badge/APP-%23ED1C24.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/SupTube)
+[![SUPTUBE WEB](https://img.shields.io/badge/WEBSITE-%23ED1C24.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/SupTube-Web)
 
 #### TOOLS & LANGUAGES USED:
 
